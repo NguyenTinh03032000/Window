@@ -1,0 +1,47 @@
+﻿<Window x:Class="QuanLySV.ThongTin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLySV"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="ThongTin" Height="550" Width="600">
+    <Window.Background>
+        <ImageBrush ImageSource="images\AnhNen.png"/>
+    </Window.Background>
+    <Grid>
+        <TextBlock x:Name="textBlock" 
+                   TextAlignment="Center" 
+                   HorizontalAlignment="Center" 
+                   FontSize="20" Margin="126,10,174,0" 
+                   TextWrapping="Wrap" 
+                   Text="Thông Tin Phần Mềm" 
+                   VerticalAlignment="Top"
+                   FontWeight="Bold" 
+                   Foreground="#FF1B8D16" 
+                   Width="292" Height="37"  />
+        <TextBlock x:Name="textBlock1" 
+                   HorizontalAlignment="Left"  
+                   FontSize="25" Margin="10,38,0,0"
+                   TextWrapping="Wrap"  
+                   VerticalAlignment="Top" 
+                   Height="521" Width="582">
+               -Phần mềm quản lý sinh viên được xây
+            dựng dựa trên  phần mềm quản lý điểm sinh viên
+            của trường đại học Quy Nhơn.<LineBreak/>
+            -Phần mềm có thể hoàn toàn chỉnh sửa,
+            nâng cấp,thay đổi cho phù hợp với yêu cầu mới
+            hay trong những môi trường mới.
+            <LineBreak/>
+            -Phần mềm được xây dựng dựa trên ngôn ngữ C# 
+            sử dung công cụ  Visual Studio 2015,
+            cơ sở dữ liệu được thiết kế trong SQL Server,
+            sử dụng công nghệ LINQ để truy vấn dữ liệu 
+            và dùng WPF để thiết kế.<LineBreak/>
+            -Sinh viên thực hiện:Nguyễn Văn Tính
+            <LineBreak/>-Mã SV:4151050046<LineBreak/>
+            -Em xin chân thành cảm ơn!
+        </TextBlock>
+    </Grid>
+</Window>

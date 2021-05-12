@@ -1,0 +1,191 @@
+D:\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+D:\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+D:\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+D:\QuanLySV\QuanLySV\obj\Debug\App.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.cache
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.lref
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.g.resources
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.Cache
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+F:\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+F:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+F:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+D:\QuanLySV\QuanLySV\obj\Debug\MainWindow.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\MainWindow.baml
+D:\QuanLySV\QuanLySV\obj\Debug\DangKy.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\DangKy.baml
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySinhVien.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySinhVien.baml
+D:\QuanLySV\QuanLySV\obj\Debug\SinhVien.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\SinhVien.baml
+D:\QuanLySV\QuanLySV\bin\Debug\MaterialDesignColors.dll
+D:\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\QuanLySV\QuanLySV\bin\Debug\MaterialDesignColors.pdb
+D:\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\QuanLySV\QuanLySV\obj\Debug\App.baml
+D:\QuanLySV\QuanLySV\obj\Debug\Lop.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\Lop.baml
+D:\QuanLySV\QuanLySV\obj\Debug\Đổi mật khẩu.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\Đổi mật khẩu.baml
+D:\QuanLySV\QuanLySV\obj\Debug\HocKy.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\HocKy.baml
+D:\QuanLySV\QuanLySV\obj\Debug\Mon.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\Mon.baml
+D:\QuanLySV\QuanLySV\obj\Debug\NhapDiem.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\NhapDiem.baml
+D:\QuanLySV\QuanLySV\obj\Debug\ThongTin.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\ThongTin.baml
+D:\QuanLySV\QuanLySV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\TrangChu.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\TrangChu.baml
+D:\QuanLySV\QuanLySV\obj\Debug\Trogiup.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\Trogiup.baml
+D:\QuanLySV\QuanLySV\obj\Debug\TaiKhoan.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\TaiKhoan.baml
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojResolveAssemblyReference.cache
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLyChung.g.cs
+D:\QuanLySV\QuanLySV\obj\Debug\QuanLyChung.baml
+E:\Window\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+E:\Window\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+E:\Window\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+E:\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignColors.dll
+E:\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignColors.pdb
+E:\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojResolveAssemblyReference.cache
+E:\Window\QuanLySV\QuanLySV\obj\Debug\DangKy.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\HocKy.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Lop.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\MainWindow.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Mon.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\NhapDiem.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLyChung.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySinhVien.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\SinhVien.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\TaiKhoan.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\ThongTin.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\TrangChu.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Trogiup.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Đổi mật khẩu.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\App.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.cache
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.lref
+E:\Window\QuanLySV\QuanLySV\obj\Debug\App.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\DangKy.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\HocKy.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Lop.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\MainWindow.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Mon.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\NhapDiem.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLyChung.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySinhVien.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\SinhVien.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\TaiKhoan.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\ThongTin.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\TrangChu.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Trogiup.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\Đổi mật khẩu.baml
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.g.resources
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+E:\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.Cache
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignColors.dll
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignColors.pdb
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Cũ\Window\QuanLySV\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csprojResolveAssemblyReference.cache
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\DangKy.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\HocKy.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Lop.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\MainWindow.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Mon.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\NhapDiem.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLyChung.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySinhVien.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\SinhVien.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\TaiKhoan.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\ThongTin.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\TrangChu.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Trogiup.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Đổi mật khẩu.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\App.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.cache
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.lref
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\App.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\DangKy.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\HocKy.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Lop.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\MainWindow.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Mon.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\NhapDiem.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLyChung.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySinhVien.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\SinhVien.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\TaiKhoan.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\ThongTin.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\TrangChu.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Trogiup.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\Đổi mật khẩu.baml
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.g.resources
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+E:\Cũ\Window\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.Cache
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\QuanLySV.exe.config
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV.exe
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV.pdb
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\QuanLySV.exe
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\QuanLySV.pdb
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\MaterialDesignColors.dll
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\MaterialDesignColors.pdb
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV.csprojResolveAssemblyReference.cache
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\DangKy.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\HocKy.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Lop.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\MainWindow.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Mon.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\NhapDiem.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLyChung.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySinhVien.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\SinhVien.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\TaiKhoan.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\ThongTin.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\TrangChu.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Trogiup.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Đổi mật khẩu.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\App.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.cache
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV_MarkupCompile.lref
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\App.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\DangKy.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\HocKy.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Lop.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\MainWindow.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Mon.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\NhapDiem.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLyChung.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySinhVien.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\SinhVien.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\TaiKhoan.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\ThongTin.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\TrangChu.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Trogiup.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\Đổi mật khẩu.baml
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV.g.resources
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV.Properties.Resources.resources
+E:\Cũ\Window\QuanLySV - Copy\QuanLySV\obj\Debug\QuanLySV.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+﻿<Window x:Class="QuanLySV.Trogiup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLySV"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Trogiup" Height="300" Width="500">
+    <Window.Background>
+        <ImageBrush ImageSource="images\AnhNen.png"/>
+    </Window.Background>
+    <Grid>
+        <TextBlock x:Name="textBlock" TextAlignment="Center" HorizontalAlignment="Center" FontSize="30" Margin="0,10,0,0" TextWrapping="Wrap" Text="Trợ Giúp" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF1B8D16" Width="292" Height="46"  />
+        <TextBlock x:Name="textBlock1" TextAlignment="Left"  FontSize="20" HorizontalAlignment="Center"  Margin="83,61,-82,-46" TextWrapping="Wrap"  VerticalAlignment="Top" Height="254" Width="491">
+            -Phần mềm tương đối dễ sử dụng<LineBreak/><LineBreak/>-Mọi thắc mắc ban có thể liên hệ đến:<LineBreak/>
+              +Số điện thoại : 0387640547<LineBreak/>     +Email:NguyenTinh03032000@gmail.com<LineBreak/>-Em xin chân thành cảm ơn
+
+        </TextBlock>
+
+    </Grid>
+</Window>

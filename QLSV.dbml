@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLSV1" Class="QLSVDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LOCAL);Initial Catalog=QLSV1;Integrated Security=True" SettingsObjectName="QuanLySV.Properties.Settings" SettingsPropertyName="QLSV1ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DIEMHP" Member="DIEMHPs">
+    <Type Name="DIEMHP">
+      <Column Name="MASV" Type="System.String" DbType="NVarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MAMON" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DIEMLAN1" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DIEMLAN2" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="SINHVIEN_DIEMHP" Member="SINHVIEN" ThisKey="MASV" OtherKey="MASV" Type="SINHVIEN" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="MONHP_DIEMHP" Member="MONHP" ThisKey="MAMON" OtherKey="MAMON" Type="MONHP" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HOCKY" Member="HOCKies">
+    <Type Name="HOCKY">
+      <Column Name="MAHK" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENHK" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="HOCKY_MONHP" Member="MONHPs" ThisKey="MAHK" OtherKey="MAHK" Type="MONHP" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SINHVIEN" Member="SINHVIENs">
+    <Type Name="SINHVIEN">
+      <Column Name="MASV" Type="System.String" DbType="NVarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HOTEN" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="NGAYSINH" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="GIOITINH" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="NOISINH" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DANTOC" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="MALOP" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="SINHVIEN_DIEMHP" Member="DIEMHPs" ThisKey="MASV" OtherKey="MASV" Type="DIEMHP" />
+      <Association Name="LOP_SINHVIEN" Member="LOP" ThisKey="MALOP" OtherKey="MALOP" Type="LOP" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LOP" Member="LOPs">
+    <Type Name="LOP">
+      <Column Name="MALOP" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENLOP" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="LOP_SINHVIEN" Member="SINHVIENs" ThisKey="MALOP" OtherKey="MALOP" Type="SINHVIEN" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MONHP" Member="MONHPs">
+    <Type Name="MONHP">
+      <Column Name="MAMON" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENMON" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="SOTINCHI" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MAHK" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="MONHP_DIEMHP" Member="DIEMHPs" ThisKey="MAMON" OtherKey="MAMON" Type="DIEMHP" />
+      <Association Name="HOCKY_MONHP" Member="HOCKY" ThisKey="MAHK" OtherKey="MAHK" Type="HOCKY" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TAIKHOAN" Member="TAIKHOANs">
+    <Type Name="TAIKHOAN">
+      <Column Name="TENDANGNHAP" Type="System.String" DbType="NVarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MATKHAU" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

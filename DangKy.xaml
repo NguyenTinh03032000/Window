@@ -1,0 +1,78 @@
+﻿<Window x:Class="QuanLySV.DangKy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLySV"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="DangKy" Height="500" Width="500">
+    <Window.Background>
+        <ImageBrush ImageSource="images\AnhNen.png" TileMode="None"/>
+    </Window.Background>
+    
+    <Grid>
+        <TextBlock x:Name="textBlock" 
+                   HorizontalAlignment="Left" 
+                   Margin="49,180,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Tên đăng nhập" 
+                   VerticalAlignment="Top" 
+                   FontSize="20" 
+                   FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock1" 
+                   HorizontalAlignment="Left" 
+                   Margin="49,240,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Mật khẩu" 
+                   VerticalAlignment="Top" 
+                   FontSize="20" 
+                   FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock2" 
+                   HorizontalAlignment="Left" 
+                   Margin="49,300,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Xác nhận mật khẩu" 
+                   VerticalAlignment="Top" 
+                   FontSize="20" 
+                   FontWeight="Bold"/>
+        <Image Source="images\logo-truong-dai-hoc-qui-nhon.jpg" 
+               x:Name="image1"   
+               Height="110" 
+               Margin="16,13,12,13"  
+               VerticalAlignment="Top" />
+        <TextBox x:Name="txbTenDangNhap" 
+                 HorizontalAlignment="Left" 
+                 Height="28" Margin="260,180,0,0" 
+                 TextWrapping="Wrap" Text="" 
+                 VerticalAlignment="Top" 
+                 Width="180"/>
+        <TextBox x:Name="txbmatkhau" 
+                 HorizontalAlignment="Left"
+                 Height="28" Margin="260,240,0,0"   
+                 VerticalAlignment="Top" 
+                 Width="180" ></TextBox>
+        <TextBox x:Name="txbXacNhanMK" 
+                 HorizontalAlignment="Left" 
+                 Height="28" Margin="260,300,0,0"  
+                 VerticalAlignment="Top" 
+                 Width="180"/>
+        <Button x:Name="btnXacNhan" 
+                Content="Đăng ký" 
+                HorizontalAlignment="Left" 
+                Margin="86,385,0,0" 
+                VerticalAlignment="Top" 
+                Width="102" Height="30" 
+                FontWeight="Bold" 
+                FontSize="18" 
+                Click="btnXacNhan_Click" >
+        </Button>
+        <Button x:Name="btnQuayLai" Content="Quay lại" 
+                HorizontalAlignment="Left" 
+                Margin="315,385,0,0" 
+                VerticalAlignment="Top" Width="100" 
+                Height="30" FontWeight="Bold" 
+                FontSize="18" Click="btnQuayLai_Click">
+        </Button>
+    </Grid>
+</Window>

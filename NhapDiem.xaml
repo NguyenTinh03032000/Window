@@ -1,0 +1,81 @@
+﻿<Window x:Class="QuanLySV.NhapDiem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLySV"
+        x:Name="NhapDiem1"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="NhapDiem" Height="600" Width="700" Loaded="NhapDiem1_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="images\AnhNen.png"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="TextBlock">
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Foreground" Value="Blue"/>
+                <Setter Property="FontSize" Value="18"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Margin" Value="488,95,0,0"/>
+                <Setter Property="Width" Value="120"/>
+                <Setter Property="Height" Value="50"/>
+                <Setter Property="Background" Value="#FF5996EE"/>
+            </Style>
+        </Grid.Resources>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="35,95,0,0" TextWrapping="Wrap" Text="Sinh viên" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="35,175,0,0" TextWrapping="Wrap" Text="Mã môn" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="370,100,0,0" TextWrapping="Wrap" Text="Điểm lần 1" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="370,186,0,0" TextWrapping="Wrap" Text="Điểm lần 2" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbDiemLan2" HorizontalAlignment="Left"  Margin="491,175,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"  Width="163"  Height="35" FontSize="18" Text="{Binding ElementName=dataDiem,Path=SelectedItem.DIEMLAN2}"/>
+        <TextBox x:Name="txbDiemLan1" HorizontalAlignment="Left"  Margin="491,95,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"   FontSize="18" Width="163"  Height="35" Text="{Binding ElementName=dataDiem,Path=SelectedItem.DIEMLAN1}"/>
+        <ComboBox x:Name="cbMaSV" HorizontalAlignment="Left" Margin="145,95,0,0" VerticalAlignment="Top"  RenderTransformOrigin="0.545,-1.088" Width="150"  Height="35" FontSize="18" SelectedValue="{Binding ElementName=dataDiem,Path=SelectedItem.MASV,Mode=OneWay}"/>
+        <TextBlock x:Name="textBlock4" HorizontalAlignment="Center"  Margin="0,33,0,0" TextWrapping="Wrap" Text="QUẢN LÝ ĐIỂM" VerticalAlignment="Top" FontSize="25"/>
+        <Button x:Name="btnThem"  HorizontalAlignment="Left" Margin="10,260,0,0" VerticalAlignment="Top" Click="btnThem_Click">
+            <StackPanel Orientation="Horizontal" >
+                <Image Source="images\Sua.png"  Height="39"  Width="51"/>
+                <TextBlock Text="Nhập" Width="60" Height="25" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnXoa"  HorizontalAlignment="Left" Margin="145,260,0,0" VerticalAlignment="Top" Click="btnXoa_Click_1">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="images\xoa.jpg" Height="30" Width="44"  />
+                <TextBlock Text="Xóa" Height="22" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnLuu"  HorizontalAlignment="Left" Margin="282,260,0,0" VerticalAlignment="Top" Click="btnLuu_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="images\Luu.png" Height="40" Width="42" />
+                <TextBlock Text="Lưu"  Height="35" FontSize="23" Width="42"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnThoat" HorizontalAlignment="Left" Margin="567,260,0,0" VerticalAlignment="Top" Width="115" Click="btnThoat_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="images\back_2.png" Height="35"/>
+                <TextBlock Height="24" Width="64" FontSize="17"><Run Text="Quay lại"/></TextBlock>
+            </StackPanel>
+        </Button>
+        <DataGrid x:Name="dataDiem" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="10,348,0,0" VerticalAlignment="Top" Height="211" Width="672">
+            <DataGrid.Background>
+                <ImageBrush ImageSource="images\AnhNen.png"/>
+            </DataGrid.Background>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Sinh Viên" Width="130" Binding="{Binding MASV}"/>
+                <DataGridTextColumn Header="Môn" Width="150" Binding="{Binding MAMON}"/>
+                <DataGridTextColumn Header="Điểm lần 1" Width="150" Binding="{Binding DIEMLAN1}"/>
+                <DataGridTextColumn Header="Điểm lần 2" Width="130" Binding="{Binding DIEMLAN2}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="cbMaMON" HorizontalAlignment="Left" Margin="145,175,0,0" VerticalAlignment="Top"  RenderTransformOrigin="0.545,-1.088" Width="150"  Height="35" FontSize="18" SelectedValue="{Binding ElementName=dataDiem,Path=SelectedItem.MAMON,Mode=OneWay}"/>
+        <Button x:Name="btnLamMoi"  HorizontalAlignment="Left" Margin="424,260,0,0" VerticalAlignment="Top" Click="btnLamMoi_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="images\New.png" Height="37" Width="46" />
+                <TextBlock Text="Làm mới"  Height="22" FontSize="16" Width="74"/>
+            </StackPanel>
+        </Button>
+        <TextBlock Name="tgsv" Margin="10,10,676,548" RenderTransformOrigin="-1.085,-2.581"></TextBlock>
+        <TextBlock Name="tgmon"  Margin="10,10,676,548"></TextBlock>
+    </Grid>
+</Window>
